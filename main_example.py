@@ -1,5 +1,5 @@
 from pygame import *
-
+# ВААУУУ КАК КРУТОООО
 
 # фоновая музыка
 mixer.init()
